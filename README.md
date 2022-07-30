@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="120vh" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="center" alt="coding" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 <h1 align="center">Hi 👋, I'm Asliddin</h1>
 <h3 align="center">Junior software developer from Uzbekistan</h3>
 
