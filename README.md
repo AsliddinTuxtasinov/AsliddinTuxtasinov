@@ -1,6 +1,6 @@
 <img align="center" alt="coding" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 <h1 align="center">Hi 👋, I'm Asliddin</h1>
-<h3 align="center">Junior software developer from Uzbekistan</h3>
+<h3 align="center">Software developer from Uzbekistan</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asliddintuxtasinov&label=Profile%20views&color=0e75b6&style=flat" alt="asliddintuxtasinov" /> </p>
