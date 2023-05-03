@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/asliddintuxtasinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asliddintuxtasinov" height="30" width="40" /></a>
-<a href="https://instagram.com/asliddin.tuxtasinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asliddin.tuxtasinov" height="30" width="40" /></a>
+<a href="https://instagram.com/asliddin.tuxtasinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asliddin_1010" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/juniordan seniorgacha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="juniordan seniorgacha" height="30" width="40" /></a>
 </p>
 
