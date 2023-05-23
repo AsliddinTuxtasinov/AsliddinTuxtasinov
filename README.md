@@ -33,19 +33,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asliddintuxtasinov&" alt="asliddintuxtasinov" /></p>
 
-[![wakatime](https://wakatime.com/badge/user/waka_e71c68cd-d816-40cf-8fcd-c8e790c2c493.svg)](https://wakatime.com/@waka_e71c68cd-d816-40cf-8fcd-c8e790c2c493)
-
 <!--START_SECTION:waka-->
-
-```text
-Total Time: 723 hrs 43 mins
-
-Python       500 hrs 37 mins █████████████████▒░░░░░░░   69.17 %
-HTML         93 hrs 32 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
-Vue.js       50 hrs 27 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-JavaScript   21 hrs 27 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-YAML         12 hrs 9 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-```
 
 <figure><embed src="https://wakatime.com/share/@asliddin/4035104c-c7db-4890-a05b-e3461774edd2.svg"></embed></figure>
 
