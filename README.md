@@ -32,9 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asliddintuxtasinov&show_icons=true&locale=en" alt="asliddintuxtasinov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asliddintuxtasinov&" alt="asliddintuxtasinov" /></p>
-
-<!--START_SECTION:waka-->
-
-<figure><embed src="https://wakatime.com/share/@asliddin/862f1afd-7cd9-4c9d-9abf-f0f090fe0b1f.svg"></embed></figure>
-
-<!--END_SECTION:waka-->
