@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asliddintuxtasinov&show_icons=true&locale=en" alt="asliddintuxtasinov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asliddintuxtasinov&" alt="asliddintuxtasinov" /></p>
+
+<figure><embed src="https://wakatime.com/share/@asliddin/081609e5-8183-4c0e-9076-ff9bff3c45a0.svg"></embed></figure>
