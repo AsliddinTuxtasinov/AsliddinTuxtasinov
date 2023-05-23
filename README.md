@@ -33,7 +33,19 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asliddintuxtasinov&" alt="asliddintuxtasinov" /></p>
 
+![](https://komarev.com/ghpvc/?username=notarious2)
+[![wakatime](https://wakatime.com/badge/user/waka_e71c68cd-d816-40cf-8fcd-c8e790c2c493.svg)](https://wakatime.com/@waka_e71c68cd-d816-40cf-8fcd-c8e790c2c493)
+
 <!--START_SECTION:waka-->
-<figure><embed src="https://wakatime.com/share/@asliddin/081609e5-8183-4c0e-9076-ff9bff3c45a0.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@asliddin/2f247218-9ddf-438d-8a79-bed7b840847d.svg"></embed></figure>
+
+```text
+Total Time: 723 hrs 43 mins
+
+Python       500 hrs 37 mins █████████████████▒░░░░░░░   69.17 %
+HTML         93 hrs 32 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
+Vue.js       50 hrs 27 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+JavaScript   21 hrs 27 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+YAML         12 hrs 9 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+```
+
 <!--END_SECTION:waka-->
