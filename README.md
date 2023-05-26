@@ -20,9 +20,9 @@
 <h3 align="left">Connect with me:</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-581%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-587%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-85-blue)
 
 **I'm an Early 🐤** 
 
