@@ -1,100 +1,187 @@
-<img align="center" alt="coding" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-<h1 align="center">Hi 👋, I'm Asliddin</h1>
-<h3 align="center">Software developer from Uzbekistan</h3>
+<!-- PROFESSIONAL & MODERN GITHUB README FOR ASLIDDIN -->
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asliddintuxtasinov&label=Profile%20views&color=0e75b6&style=flat" alt="asliddintuxtasinov" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asliddintuxtasinov" alt="asliddintuxtasinov" /></a> </p>
-
-- 🌱 I’m currently learning **Gin, Fast api, skite-learn, ...**
-
-- 👨‍💻 All of my projects are available at [https://github.com/AsliddinTuxtasinov?tab=repositories](https://github.com/AsliddinTuxtasinov?tab=repositories)
-
-- 💬 Ask me about **python, golang**
-
-- 📫 How to reach me **asliddintukhtasinov5@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-648%20hrs%2049%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-🌆 Daytime                754 commits         █████████████░░░░░░░░░░░░   51.79 % 
-🌃 Evening                383 commits         ███████░░░░░░░░░░░░░░░░░░   26.30 % 
-🌙 Night                  153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   385 commits         ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-Tuesday                  246 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Wednesday                203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Thursday                 257 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Friday                   220 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Saturday                 118 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Sunday                   27 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tashkent
-
-💬 Programming Languages: 
-Python                   20 hrs 17 mins      █████████████████████████   99.21 % 
-HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-
-🔥 Editors: 
-PyCharmCore              20 hrs 24 mins      █████████████████████████   99.80 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-
-💻 Operating System: 
-Mac                      20 hrs 27 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   23 repos            ████████████░░░░░░░░░░░░░   48.94 % 
-Go                       10 repos            █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/AsliddinTuxtasinov/AsliddinTuxtasinov/master/assets/bar_graph.png)
-
-
-<!--END_SECTION:waka-->
-
-<p align="left">
-<a href="https://linkedin.com/in/asliddintuxtasinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asliddintuxtasinov" height="30" width="40" /></a>
-<a href="https://instagram.com/asliddin_1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asliddin_1010" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/juniordan seniorgacha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="juniordan seniorgacha" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm <span style="color:#4CAF50;">Asliddin</span></h1>
+<h3 align="center">Backend Developer • Python & Golang • DevOps Learner</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asliddintuxtasinov&show_icons=true&locale=en&layout=compact" alt="asliddintuxtasinov" /></p>
+<p align="center">
+  <a href="https://github.com/AsliddinTuxtasinov">
+    <img src="https://komarev.com/ghpvc/?username=AsliddinTuxtasinov&label=Profile+Views&color=brightgreen" />
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AsliddinTuxtasinov&theme=dracula&margin-w=10" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asliddintuxtasinov&show_icons=true&locale=en" alt="asliddintuxtasinov" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asliddintuxtasinov&" alt="asliddintuxtasinov" /></p>
+## 🚀 About Me
+- 🔭 Building backend systems with **FastAPI, Django, Gin**
+- 🌱 Learning **Kubernetes, CI/CD, Cloud, DevOps**
+- 💬 Ask me about **Python, Golang, Docker, Microservices**
+- 👨‍💻 All my projects → [GitHub Repos](https://github.com/AsliddinTuxtasinov?tab=repositories)
+- 📫 Contact: **asliddintukhtasinov5@gmail.com**
+- ⚡ Fun fact: *I think I'm funny 😄*
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/asliddintuxtasinov" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://instagram.com/asliddin_1010" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+  <a href="https://www.youtube.com/@JuniordanSeniorgacha" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" width="40"/></a>
+</p>
+
+---
+
+## 🛠 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,go,django,fastapi,postgres,docker,redis,git,linux,html,css,js,bootstrap,nginx,postman" />
+</p>
+
+---
+
+## ⏱ WakaTime Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 📈 GitHub Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AsliddinTuxtasinov&theme=react-dark&hide_border=true)
+
+---
+
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/AsliddinTuxtasinov/AsliddinTuxtasinov/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🎨 GitHub Stats (Auto Dark/Light)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AsliddinTuxtasinov&show_icons=true&hide_border=true#gh-dark-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AsliddinTuxtasinov&show_icons=true&hide_border=true&theme=default#gh-light-mode-only" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsliddinTuxtasinov&layout=compact&hide_border=true#gh-dark-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsliddinTuxtasinov&layout=compact&hide_border=true&theme=default#gh-light-mode-only" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsliddinTuxtasinov&hide_border=true" />
+</p>
+
+---
+
+## ⭐ Dynamic GitHub Badges
+<p align="left">
+  <img src="https://img.shields.io/github/followers/AsliddinTuxtasinov?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/AsliddinTuxtasinov?label=Stars&style=for-the-badge" />
+  <img src="https://img.shields.io/github/repo-size/AsliddinTuxtasinov/AsliddinTuxtasinov?label=Repo%20Size&style=for-the-badge" />
+  <img src="https://img.shields.io/github/commit-activity/y/AsliddinTuxtasinov/AsliddinTuxtasinov?style=for-the-badge" />
+</p>
+
+---
+
+## 🧠 Animated Skill Bars
+
+<p align="left">
+  <b>Python</b>
+  <img src="https://img.shields.io/badge/90%25-blue?style=for-the-badge" height="22" />
+  <br/>
+  <b>FastAPI</b>
+  <img src="https://img.shields.io/badge/85%25-blue?style=for-the-badge" height="22" />
+  <br/>
+  <b>Django</b>
+  <img src="https://img.shields.io/badge/80%25-blue?style=for-the-badge" height="22" />
+  <br/>
+  <b>Golang</b>
+  <img src="https://img.shields.io/badge/70%25-blue?style=for-the-badge" height="22" />
+  <br/>
+  <b>Docker / DevOps</b>
+  <img src="https://img.shields.io/badge/75%25-blue?style=for-the-badge" height="22" />
+  <br/>
+  <b>SQL / Databases</b>
+  <img src="https://img.shields.io/badge/90%25-blue?style=for-the-badge" height="22" />
+</p>
+
+---
+
+## 🛰 Real-time GitHub Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AsliddinTuxtasinov&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsliddinTuxtasinov&layout=compact&theme=tokyonight" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AsliddinTuxtasinov&theme=tokyonight" />
+</p>
+
+---
+
+## 🎨 Custom Premium SVG Banner
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Asliddin%20Tuxtasinov&text2=Backend%20Engineer" />
+</p>
+
+---
+
+## 🧊 3D Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/profile-night-view.svg" width="100%" />
+</p>
+
+---
+
+## 🧠 My Skills (Clean Version — No Levels)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,go,fastapi,django,flask,docker,linux,redis,postgres,mysql,git,github,nginx,kubernetes,aws" />
+</p>** | Git, GitHub Actions, Postman, Nginx | ⭐⭐⭐⭐⭐ |
+
+---
+
+## 📌 Pinned Projects Showcase
+<p align="center">
+  <a href="https://github.com/AsliddinTuxtasinov/fastapi-auth-service">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsliddinTuxtasinov&repo=fastapi-auth-service&theme=react&hide_border=true" />
+  </a>
+  <a href="https://github.com/AsliddinTuxtasinov/django-eimzo-integration">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsliddinTuxtasinov&repo=django-eimzo-integration&theme=react&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AsliddinTuxtasinov/golang-microservices">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsliddinTuxtasinov&repo=golang-microservices&theme=react&hide_border=true" />
+  </a>
+  <a href="https://github.com/AsliddinTuxtasinov/video-transcoding-fastapi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsliddinTuxtasinov&repo=video-transcoding-fastapi&theme=react&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 🧾 Portfolio / Resume Style Section
+### 👨‍💻 Who Am I?
+I am **Asliddin Tuxtasinov**, a backend engineer with strong experience in Python, Golang, and distributed systems.  
+I build scalable APIs, optimize databases, design microservices and integrate DevOps pipelines.
+
+### 🏆 What I Do
+- Backend engineering (FastAPI, Django, Golang)
+- API architecture (REST, gRPC, WebSocket)
+- Distributed systems & message queues
+- Monitoring & logging (Grafana, Prometheus)
+- Docker-based deployments, CI/CD pipelines
+
+### 🎯 My Goals for 2025
+- Full DevOps mastery: Kubernetes, Helm, AWS
+- Become a senior backend engineer
+- Contribute to open‑source Python/Golang projects
+
+---
+
+## 🧩 Fun
+> "Clean Code is not a goal — it's a habit."
